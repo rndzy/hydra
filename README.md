@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[<img src="./resources/icon.png" width="144"/>](https://hydralauncher.site)
+
+![image](https://github.com/rndzy/hydra/assets/50235645/0f2324f2-e17b-489a-ae23-5ecc9192bb4b)
 
   <h1 align="center">Hydra Launcher</h1>
   
